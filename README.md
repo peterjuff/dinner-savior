@@ -9,7 +9,6 @@ A restaurant wait-time application that gives recipes as an alternative in case 
 * Look up desired restaurant to see current wait times.
 * Check out three suggested recipes based on your search as an alternative.
 
-![screenshot](https://peterjuff.github.io/dinner-savior/)
 
 ## Tools and Software
 
